@@ -7,7 +7,7 @@
 ### articles
 
 * https://baijiahao.baidu.com/s?id=1608234436964134667
-* [DCGAN、W*GAN*、W*GAN*-GP、LS*GAN*、BEGAN原理总结及对比 - CSDN博客](https://blog.csdn.net/qq_25737169/article/details/78857788)
+* [DCGAN、W*GAN*、W*GAN*-GP、LS*GAN*、BEGAN原理总结及对比 - CSDN博客](https://blog.csdn.net/qq_25737169/article/details/78857788)dadad
 * [一步一步实现自己的*GAN* - CSDN博客](https://blog.csdn.net/qq_35082030/article/details/73438109)
 
 
